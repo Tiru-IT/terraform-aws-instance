@@ -13,3 +13,4 @@ This module creates EC2 instance.
 
 * public_ip 
 * private_ip
+* instance_id
